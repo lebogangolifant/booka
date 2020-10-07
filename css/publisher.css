@@ -173,10 +173,6 @@ header .intro-text {
 	padding:0 30px;
 }
 
-.main-nav {
-
-}
-
 .navbar {
 	position: relative;
 	padding-top:50px;
@@ -406,8 +402,8 @@ section.reviews {
 	transition: all 0.3s ease;
 	border-radius:4px;
 }
-.owl-book .item:hover img {
-}
+ 
+
 .owl-book .item .overlay > a {
 	position: absolute;
 	display: inline-block;
@@ -469,10 +465,6 @@ section.reviews {
 		position: relative;
 		display: inline-block;
 		font-size:36px;
-	}
-	.owl-reviews .owl-controls .owl-prev {
-	}
-	.owl-reviews .owl-controls .owl-next {
 	}
 }
 
