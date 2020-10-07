@@ -201,6 +201,12 @@ header .intro-text {
 	.navbar-default .navbar-nav {
 		padding-top:30px;
 	}
+
+	.navbar-header img{
+		width: 100px;
+		padding-top: -200px;
+	}
+
 }
 
 .navbar-header, .navbar-collapse {
